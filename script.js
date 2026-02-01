@@ -3,7 +3,7 @@ const noBtn = document.getElementById("noBtn");
 const result = document.getElementById("result");
 
 yesBtn.addEventListener("click", () => {
-    result.innerHTML = "tur murot hihot e xumai ase";
+    result.innerHTML = "Tur murot hihot e xumai ase";
 });
 
 noBtn.addEventListener("mouseover", () => {
